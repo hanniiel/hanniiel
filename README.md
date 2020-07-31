@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanniiel)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanniiel&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanniiel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hanniiel/hanniiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
