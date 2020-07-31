@@ -1,4 +1,4 @@
-<img align="right" src="https://i.gifer.com/6M8G.gif" width=350px height=586px/>
+<img align="right" src="https://github.com/hanniiel/hanniiel/blob/master/6M8G.gif" width=350px height=586px/>
 ### Hi there 👋 I'm Haniel
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanniiel&show_icons=true&theme=radical)-->
