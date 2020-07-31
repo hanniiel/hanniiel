@@ -1,7 +1,8 @@
-### Hi there 👋
+<img align="right" src="https://i.gifer.com/6M8G.gif" width=350px height=586px/>
+### Hi there 👋 I'm Haniel
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanniiel&show_icons=true&theme=radical)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanniiel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanniiel&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hanniiel/hanniiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
