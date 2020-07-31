@@ -2,6 +2,12 @@
 
 ### Hi there 👋 I'm Haniel
 
+
+- 🔭 I’m currently creating video games, mobile apps, tv apps & backend apps
+- 🌱 I’m currently learning Laravel & Django
+- 👯 I’m looking to collaborate with BlackPink :V
+- 📫 How to reach me: <a href="mailto:hanniiel@naver.com">mail</a>
+
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanniiel&show_icons=true&theme=radical)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanniiel&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
