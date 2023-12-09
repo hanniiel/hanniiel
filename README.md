@@ -2,9 +2,9 @@
 
 ### Hi there 👋 I'm Haniel
 
-
+- I have a dream that one day....
 - 🔭 I’m currently creating video games, mobile apps, tv apps & backend apps
-- 🌱 I’m currently learning Laravel & Django
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with BlackPink :V
 - 📫 How to reach me: <a href="mailto:hanniiel@naver.com">mail</a>
 
